@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **theboybreyy/theboybreyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 🦾 Computer languages I can speak?,English, Javascript, JAVA, C++ - HTML CSS (cant be counted but...well..yeah)
 - ⚡ Fun facts: Listiening to Musics🎧🎵 & Surfing the internet🌎🌐 
 - 🌌 Proficiently Skilled in - (Web Development and web Design )
--->
+
 
 - Connect via LinkedIn: <a href = "https://www.linkedin.com/in/alex-benjamin-essilfie-7b9985230/" target = "_blank">LinkedIn</a>
 
