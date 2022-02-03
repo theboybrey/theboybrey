@@ -32,43 +32,7 @@ Here are some ideas to get you started:
 
 <!-- éxplore Showcase -->
 
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-theboybreyy 
-/
-theboybreyy
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-You’re making changes in a project you don’t have write access to. We’ve created a fork of this project for you to commit your proposed changes to. Submitting a change will write it to a new branch in your fork, so you can send a pull request.
-theboybreyy
-/
-README.md
-in
-theboybreyy:main
- 
 
-Spaces
-
-No file chosen
-Attach files by dragging & dropping, selecting or pasting them.
-@theboybreyy
-Propose changes
-Commit summary
-Create README.md
-Optional extended description
-Add an optional extended description…
  
 © 2022 GitHub, Inc.
 Terms
