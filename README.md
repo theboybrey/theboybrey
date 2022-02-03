@@ -1,10 +1,7 @@
-### Hi there 👋
+### 👋 Lex here!
 
 
-**theboybreyy/theboybreyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+p>🦾 Familiar with: <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> </p> 
 - 🔭 I’m currently working on a web application, éxplore, which is an online  mart to help every household with product ordering and delivery.
 - 🌱 I’m currently learning  Mobile App development with Native Android using Java, Python,  UI/UX Design, Kotlin
 - 🌱 I recently created the  Manual Registration Portal for my department : https://suspicious-austin-f6a8e3.netlify.app/ and yet to do more..
