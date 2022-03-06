@@ -17,8 +17,8 @@
 - Connect via LinkedIn: <a href = "https://www.linkedin.com/in/alex-benjamin-essilfie-7b9985230/" target = "_blank">LinkedIn</a>
 
 ## **I've got everything to do with coding and designing 😍**
-![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=theboybreyy&theme=dracula&hide_border=true)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neophyte-programmer&theme=github_dark)
+![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=neophyte-programmer&theme=dracula&hide_border=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theboybyreyy&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=theboybreyy&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=theboybreyy&theme=github_dark)
 [![Lex Benjamin's stats](https://github-readme-stats.vercel.app/api?username=theboybreyy&show_icons=true&theme=github_dark)](https://github.com/theboybreyy)
