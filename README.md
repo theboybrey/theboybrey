@@ -18,6 +18,7 @@
 <!-- <img src="https://raw.githubusercontent.com/github/explore/2d218e3aa252dc90eef269b34eeec1fbd15dc07e/topics/sqlite/sqlite.png" alt="SQLite" width="30" >&nbsp;&nbsp; -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" >&nbsp;&nbsp; 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" >&nbsp;&nbsp; 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original-wordmark.svg" alt="figma" width="30" >&nbsp;&nbsp;
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="30" >&nbsp;&nbsp;  -->
 <!-- <img src="./images/SC-logo.jpg" alt="Styled Components" width="30" >&nbsp;&nbsp;  -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" >&nbsp;&nbsp; 
