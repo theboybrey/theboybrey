@@ -1,7 +1,9 @@
 ### 👋 Lex Benjamin here!
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=theboybreyy&label=Profile%20views&color=e91e63&style=flat" alt="theboybreyy" /> </p>
+<h2>🏆My Github Profile Trophy</h2>
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=theboybreyy&column=8&theme=gruvbox&no-frame=true"/>
 
-
-👾🎮 About to  Learn : <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> </p> 
+👾🎮 About to  Learn : <img src="https://img.shields.io/badge/React-FFD43B?style=for-the-badge&logo=React&logoColor=blue"/> <img src="https://img.shields.io/badge/Vue-ED8B00?style=for-the-badge&logo=vue&logoColor=white"/> </p> 
 - 🔭 I’m currently working on a web application, éxplore, which is an online  mart to help every household with product ordering and delivery.
 - 🌱 I recently created the  Manual Registration Portal for my department (No mobile display yet): https://suspicious-austin-f6a8e3.netlify.app/ and yet to do more..
 - 👯 I’m looking to collaborate on any project including Mobile App development, Web app designing and development or even ethical hacking or cyber security.
