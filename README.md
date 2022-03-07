@@ -3,7 +3,7 @@
 <h2>🏆My Github Profile Trophy</h2>
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=theboybreyy&column=8&theme=gruvbox&no-frame=false"/>
 
-👾🎮 About to  Learn : <img src="https://img.shields.io/badge/React-FFF?style=for-the-badge&logo=React&logoColor=blue"/> <img src="https://img.shields.io/badge/Vue-FFF?style=for-the-badge&logo=vue&logoColor=white"/> </p> 
+👾🎮 About to  Learn : <img src="https://img.shields.io/badge/React-FFF?style=for-the-badge&logo=React&logoColor=blue"/> </p> 
 - 🔭 I’m currently working on a web application, éxplore, which is an online  mart to help every household with product ordering and delivery.
 - 🌱 I recently created the  Manual Registration Portal for my department (No mobile display yet): https://suspicious-austin-f6a8e3.netlify.app/ and yet to do more..
 - 👯 I’m looking to collaborate on any project including Mobile App development, Web app designing and development or even ethical hacking or cyber security.
@@ -20,8 +20,6 @@
 
 ## **I've got everything to do with coding and designing 😍**
 ![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=theboybreyy&theme=dracula&hide_border=true)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theboybyreyy&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=theboybreyy&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=theboybreyy&theme=github_dark)
 [![Lex Benjamin's stats](https://github-readme-stats.vercel.app/api?username=theboybreyy&show_icons=true&theme=github_dark)](https://github.com/theboybreyy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theboybreyy&layout=compact&langs_count=10&theme=github_dark&hide_border=true&count-private=true)](https://github.com/theboybreyy)
