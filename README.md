@@ -4,7 +4,7 @@
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=theboybreyy&column=8&theme=gruvbox&no-frame=false"/>
 
 
-- 💬 Ask me about solving problems and probing innovative ideas through the TECH space as I find it very exhilirating..
+- 💬 Ask  about solving problems and probing innovative ideas through the TECH space as I find it very exhilirating..
 - 📫 How to reach me: 709bjs@gmail.com or by phone as +233 (0) 209 - 685 - 612 and all socail platfroms as @bibabrey
 - 😄 Pronouns: The Boy 💢🤑
 
