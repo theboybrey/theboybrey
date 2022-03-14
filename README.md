@@ -1,4 +1,4 @@
-### 👋 The Benjamin here!
+### 👋 The Benjamins here!
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=theboybreyy&label=Profile%20views&color=e91e63&style=flat" alt="theboybreyy" /> </p>
 <h2>🏆My Github Profile Trophy</h2>
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=theboybreyy&column=8&theme=gruvbox&no-frame=false"/>
