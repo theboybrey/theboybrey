@@ -12,10 +12,8 @@
 <a href="http://bit.ly/bibabreyinstagram"><img src="https://img.shields.io/badge/-@thebobrey-%231DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
 <a href="mailto:guillaume.falourd@gmail.com"><img src="https://img.shields.io/badge/-709bjs@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
-- 😄 Pronouns: The Boy 💢🤑
-<h3 align="left">⚙ My Tech Stack</h3>
-
-My Contribution Graph Animation👌
+😄 Pronouns: The Boy 💢🤑
+<h3 align="left">⚙ My Tech Stack 👌</h3>
 
 ![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
 
