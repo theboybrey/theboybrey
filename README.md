@@ -14,24 +14,27 @@
 </p>
 - 😄 Pronouns: The Boy 💢🤑
 <h3 align="left">⚙ My Tech Stack:</h3>
-### My Contribution Graph Animation👌
+
+My Contribution Graph Animation👌
 
 ![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
 
+![JavaScript](https://img.shields.io/badge/-JS-05122A?style=flat&logo=JavaScript)
+![Node JS](https://img.shields.io/badge/-NodeJs-05122A?style=flat&logo=NodeJS)
+![React JS](https://img.shields.io/badge/-ReactJS-05122A?style=flat&logo=ReactJS)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![Shell](https://img.shields.io/badge/Shell-05122A?style=flat&logo=gnu-bash&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cpp)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) 
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github) 
-![JavaScript](https://img.shields.io/badge/-JS-05122A?style=flat&logo=JavaScript)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC) 
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white) 
 
 
 
-## **Code Capsules - © Christopher Lawrence </>😍**
+## **Code Capsules - © Christopher Lawrence </>**
 ![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=theboybreyy&theme=dracula&hide_border=true)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theboybreyy&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=theboybreyy&theme=github_dark)
