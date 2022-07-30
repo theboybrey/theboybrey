@@ -32,7 +32,7 @@
 
 ## **Code Capsules - © Christopher Lawrence </>**
 ![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=theboybreyy&theme=tokyonight&hide_border=true)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theboybreyy&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theboybreyy&theme=2077)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=theboybreyy&theme=github_dark)
 [![Lex Benjamin's stats](https://github-readme-stats.vercel.app/api?username=theboybreyy&show_icons=true&theme=github_dark)](https://github.com/theboybreyy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theboybreyy&layout=compact&langs_count=10&theme=github_dark&hide_border=true&count-private=true)](https://github.com/theboybreyy)
