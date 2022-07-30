@@ -1,7 +1,7 @@
 ### 👋 Lex Benjamin here!
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=theboybreyy&label=Profile%20views&color=e91e63&style=flat" alt="theboybreyy" /> </p>
 <h2>🏆My Github Personality Trophy</h2>
-<img width=800 src="https://github-profile-trophy.vercel.app/?username=theboybreyy&column=8&theme=gruvbox&no-frame=true"/>
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=theboybreyy&column=8&theme=gruvbox&no-frame=false"/>
 
 
 - 💬 Ask  about solving problems and probing innovative ideas through the TECH space as I find it very exhilirating..
