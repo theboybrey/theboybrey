@@ -21,12 +21,13 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![Shell](https://img.shields.io/badge/Shell-05122A?style=flat&logo=gnu-bash&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=white)
-![C++](https://img.shields.io/badge/-Cpp-05122A?style=flat&logo=cpp)
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cpp)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) 
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github) 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC) ![IntelliJ](https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=jetbrains) ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman) ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white) ![MacOS](https://img.shields.io/badge/-MacOS-05122A?style=flat&logo=apple)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JS-05122A?style=flat&logo=JavaScript&logoColor=black)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC) 
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white) 
 
 
 
