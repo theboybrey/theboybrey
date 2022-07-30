@@ -12,7 +12,7 @@
 <h3 align="left">⚙ My Tech Stack:</h3>
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" >&nbsp;&nbsp; -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" >&nbsp;&nbsp;
 <img src="images/Qt.png" alt="PyQt" width="30" />&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" >&nbsp;&nbsp; 
 <!-- <img src="https://raw.githubusercontent.com/github/explore/2d218e3aa252dc90eef269b34eeec1fbd15dc07e/topics/sqlite/sqlite.png" alt="SQLite" width="30" >&nbsp;&nbsp; -->
