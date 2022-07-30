@@ -24,7 +24,7 @@
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cpp)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) 
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github) 
-![JavaScript](https://img.shields.io/badge/-JS-05122A?style=flat&logo=JavaScript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JS-05122A?style=flat&logo=JavaScript)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC) 
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white) 
