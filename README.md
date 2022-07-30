@@ -6,14 +6,14 @@
 
 - 💬 Ask  about solving problems and probing innovative ideas through the TECH space as I find it very exhilirating..
 - 📫 
-<p align="left">
+<p align="center">
 <a href="http://bit.ly/abessilfielinkedin"><img src="https://img.shields.io/badge/-abessilfie-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="http://bit.ly/bibabreytwitter"><img src="https://img.shields.io/badge/-@bibabrey-%231DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
 <a href="http://bit.ly/bibabreyinstagram"><img src="https://img.shields.io/badge/-@thebobrey-%231DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
 <a href="mailto:guillaume.falourd@gmail.com"><img src="https://img.shields.io/badge/-709bjs@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 - 😄 Pronouns: The Boy 💢🤑
-<h3 align="left">⚙ My Tech Stack:</h3>
+<h3 align="left">⚙ My Tech Stack</h3>
 
 My Contribution Graph Animation👌
 
@@ -33,11 +33,11 @@ My Contribution Graph Animation👌
 
 
 ## **Code Capsules - © Christopher Lawrence </>**
-![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=theboybreyy&theme=dracula&hide_border=true&color=purple)
+![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=theboybreyy&theme=dracula&hide_border=true)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theboybreyy&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=theboybreyy&theme=github_dark)
 [![Lex Benjamin's stats](https://github-readme-stats.vercel.app/api?username=theboybreyy&show_icons=true&theme=github_dark)](https://github.com/theboybreyy)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theboybreyy&layout=compact&langs_count=12&theme=github_dark&hide_border=true&count-private=true)](https://github.com/theboybreyy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theboybreyy&layout=compact&langs_count=10&theme=github_dark&hide_border=true&count-private=true)](https://github.com/theboybreyy)
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=theboybreyy&theme=dracula)  
 
 
