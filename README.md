@@ -13,10 +13,9 @@
 <a href="mailto:guillaume.falourd@gmail.com"><img src="https://img.shields.io/badge/-709bjs@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 😄 Pronouns: The Boy 💢🤑
-<h3 align="left">⚙ My Tech Stack 👌</h3>
 
 ![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
-
+<h3 align="left">⚙ My Tech Stack 👌</h3>
 ![JavaScript](https://img.shields.io/badge/-JS-05122A?style=flat&logo=JavaScript)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![Shell](https://img.shields.io/badge/Shell-05122A?style=flat&logo=gnu-bash&logoColor=white)
