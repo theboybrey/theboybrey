@@ -13,14 +13,11 @@
 <a href="mailto:guillaume.falourd@gmail.com"><img src="https://img.shields.io/badge/-709bjs@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 - 😄 Pronouns: The Boy 💢🤑
-
-- Connect via LinkedIn: <a href = "https://www.linkedin.com/in/alex-benjamin-essilfie-7b9985230/" target = "_blank">LinkedIn</a>
 <h3 align="left">⚙ My Tech Stack:</h3>
 ### My Contribution Graph Animation👌
 
 ![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
 
-<p align="left">
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![Shell](https://img.shields.io/badge/Shell-05122A?style=flat&logo=gnu-bash&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=white)
@@ -30,7 +27,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC) ![IntelliJ](https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=jetbrains) ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman) ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white) ![MacOS](https://img.shields.io/badge/-MacOS-05122A?style=flat&logo=apple)&nbsp;
-</p>
+
 
 
 ## **Code Capsules - © Christopher Lawrence </>😍**
