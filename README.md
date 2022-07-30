@@ -36,7 +36,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=theboybreyy&theme=tokyonight)
 [![Lex Benjamin's stats](https://github-readme-stats.vercel.app/api?username=theboybreyy&show_icons=true&theme=tokyonight)](https://github.com/theboybreyy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theboybreyy&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&count-private=true)](https://github.com/theboybreyy)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=theboybreyy&theme=radical&utcOffset=8&hide_border=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=theboybreyy&theme=tokyonight&utcOffset=8&hide_border=true)
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=theboybreyy&theme=radical)  
 
 
