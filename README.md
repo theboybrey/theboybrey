@@ -29,7 +29,7 @@
 
 
 
-## **Code Capsules - © Christopher Lawrence </>**
+## **Code Capsules - © Christopher Lawrence CL </>**
 ![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=theboybreyy&theme=tokyonight&hide_border=true)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theboybreyy&theme=tokyonight)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=theboybreyy&theme=tokyonight)
