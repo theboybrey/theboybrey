@@ -3,7 +3,6 @@
 <h2>🏆My Github Personality Trophy</h2>
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=theboybreyy&column=8&theme=gruvbox&no-frame=false"/>
 
-
 - 💬 Ask  about solving problems and probing innovative ideas through the TECH space as I find it very exhilirating..
 - 📫 
 <p align="center">
