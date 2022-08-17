@@ -1,4 +1,4 @@
-### 👋 Lex Benjamin here!!
+### 👋 Lex Benjamin here!
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=theboybreyy&label=Profile%20views&color=e91e63&style=flat" alt="theboybreyy" /> </p>
 <h2>🏆My Github Personality Trophy</h2>
 <img width=900 src="https://github-profile-trophy.vercel.app/?username=theboybreyy&column=8&theme=gruvbox&no-frame=false"/>
