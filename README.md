@@ -1,4 +1,6 @@
-```Lex Benjamin here ```
+```
+Lex Benjamin 
+```
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=theboybreyy&label=Profile%20views&color=e91e63&style=flat" alt="theboybreyy" /> </p>
 <h2>🏆My Github Personality Trophy</h2>
 <img width=900 src="https://github-profile-trophy.vercel.app/?username=theboybreyy&column=8&theme=gruvbox&no-frame=false"/>
@@ -28,8 +30,9 @@
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white) 
 
 
-
-## **Code Capsules - © Christopher Lawrence CL </>**
+```
+-Code Capsules - © Christopher Lawrence CL </>
+```
 ![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=theboybreyy&theme=tokyonight&hide_border=true)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theboybreyy&theme=tokyonight)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=theboybreyy&theme=tokyonight)
