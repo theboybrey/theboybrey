@@ -1,5 +1,5 @@
 ```
-                                                              The Lex Benjamin 
+The Lex Benjamin 
 ```
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=theboybreyy&label=Profile%20views&color=e91e63&style=flat" alt="theboybreyy" /> </p>
 <h2>🏆My Github Personality Trophy</h2>
@@ -14,6 +14,10 @@
 <a href="mailto:guillaume.falourd@gmail.com"><img src="https://img.shields.io/badge/-709bjs@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 😄 Pronouns: The Boy💢🤑
+
+```
+@theboybrey
+```
 
 ![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
 <h3 align="left">⚙ My Tech Stack 👌</h3>
@@ -31,7 +35,7 @@
 
 
 ```
-                                                   Code Capsules - © Christopher Lawrence CL </>
+Code Capsules - © Christopher Lawrence CL </>
 ```
 ![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=theboybreyy&theme=tokyonight&hide_border=true)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theboybreyy&theme=tokyonight)
@@ -42,7 +46,7 @@
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=theboybreyy&theme=dracula&hide_border=true)  
 
 ```
-                                                                AIS - © 2022 
+AIS - © 2022 
 ```
 
 <!-- éxplore Showcase -->
