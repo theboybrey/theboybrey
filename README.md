@@ -1,5 +1,5 @@
 ```
-Lex Benjamin 
+                                                                   The Lex Benjamin 
 ```
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=theboybreyy&label=Profile%20views&color=e91e63&style=flat" alt="theboybreyy" /> </p>
 <h2>🏆My Github Personality Trophy</h2>
@@ -31,7 +31,7 @@ Lex Benjamin
 
 
 ```
--Code Capsules - © Christopher Lawrence CL </>
+                                                   Code Capsules - © Christopher Lawrence CL </>
 ```
 ![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=theboybreyy&theme=tokyonight&hide_border=true)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theboybreyy&theme=tokyonight)
@@ -41,7 +41,9 @@ Lex Benjamin
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=theboybreyy&theme=dracula&utcOffset=8&hide_border=true)
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=theboybreyy&theme=dracula&hide_border=true)  
 
-
+```
+                                                                AIS - © 2022 
+```
 
 <!-- éxplore Showcase -->
 
