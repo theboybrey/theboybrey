@@ -12,9 +12,7 @@ The Lex Benjamin
 <a href="http://bit.ly/bibabreytwitter"><img src="https://img.shields.io/badge/-@bibabrey-%231DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
 <a href="mailto:guillaume.falourd@gmail.com"><img src="https://img.shields.io/badge/-709bjs@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
-```
-Bibabrey
-```
+
 
 ```
 @theboybrey
