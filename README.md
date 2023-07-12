@@ -1,16 +1,16 @@
 ```
-Lex Benjamin
+709bjs@duck.com
 ```
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=theboybreyy&label=Profile%20views&color=e91e63&style=flat" alt="theboybreyy" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=theboybrey&label=Profile%20views&color=e91e63&style=flat" alt="theboybreyy" /> </p>
 <h2>🏆My Github Personality Trophy</h2>
-<img width=900 src="https://github-profile-trophy.vercel.app/?username=theboybreyy&column=8&theme=gruvbox&no-frame=false"/>
+<img width=900 src="https://github-profile-trophy.vercel.app/?username=theboybrey&column=8&theme=gruvbox&no-frame=false"/>
 
-- 💬 Ask  about solving problems and probing innovative ideas through the TECH space as I find it very exhilirating..
+- 💬 Reticently Amicable...
 - 📫 
 <p align="center">
 <a href="http://bit.ly/abessilfielinkedin"><img src="https://img.shields.io/badge/-abessilfie-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="http://bit.ly/bibabreytwitter"><img src="https://img.shields.io/badge/-@bibabrey-%231DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
-<a href="mailto:guillaume.falourd@gmail.com"><img src="https://img.shields.io/badge/-709bjs@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:guillaume.falourd@gmail.com"><img src="https://img.shields.io/badge/-709bjs@duck.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
 
@@ -30,18 +30,18 @@ Lex Benjamin
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github) 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC) 
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white) 
+
 
 
 ```
 Code Capsules - © Christopher Lawrence CL </>
 ```
-![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=theboybreyy&theme=tokyonight&hide_border=true)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theboybreyy&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=theboybreyy&theme=tokyonight)
-[![Lex Benjamin's stats](https://github-readme-stats.vercel.app/api?username=theboybreyy&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/theboybreyy)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theboybreyy&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&count-private=true)](https://github.com/theboybreyy)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=theboybreyy&theme=dracula&utcOffset=8&hide_border=true)
+![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=theboybrey&theme=tokyonight&hide_border=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theboybrey&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=theboybrey&theme=tokyonight)
+[![Lex Benjamin's stats](https://github-readme-stats.vercel.app/api?username=theboybrey&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/theboybrey)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theboybrey&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&count-private=true)](https://github.com/theboybrey)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=theboybrey&theme=dracula&utcOffset=8&hide_border=true)
 
 ```
 AIS - © 2023
@@ -51,16 +51,5 @@ AIS - © 2023
 
 
  
-© 2023 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+© 2023 AIS, Inc.
 
