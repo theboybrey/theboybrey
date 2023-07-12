@@ -2,21 +2,14 @@
 709bjs@duck.com
 ```
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=theboybrey&label=Profile%20views&color=e91e63&style=flat" alt="theboybreyy" /> </p>
-<h2>🏆My Github Personality Trophy</h2>
+<h2 align="right">Github Personality Trophy</h2>
 <img width=900 src="https://github-profile-trophy.vercel.app/?username=theboybrey&column=8&theme=gruvbox&no-frame=false"/>
 
-- 💬 Reticently Amicable...
-- 📫 
 <p align="center">
 <a href="http://bit.ly/abessilfielinkedin"><img src="https://img.shields.io/badge/-abessilfie-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="http://bit.ly/bibabreytwitter"><img src="https://img.shields.io/badge/-@bibabrey-%231DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
 <a href="mailto:guillaume.falourd@gmail.com"><img src="https://img.shields.io/badge/-709bjs@duck.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
-
-
-```
-@theboybrey
-```
 
 ![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
 <h3 align="left">⚙ My Tech Stack 👌</h3>
