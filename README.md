@@ -2,7 +2,7 @@
 709bjs@duck.com
 ```
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=theboybrey&label=Profile%20views&color=e91e63&style=flat" alt="theboybreyy" /> </p>
-<h2 align="right">Github Personality Trophy</h2>
+<h2 align="center">Github Personality Trophy</h2>
 <img width=900 src="https://github-profile-trophy.vercel.app/?username=theboybrey&column=8&theme=gruvbox&no-frame=false"/>
 
 <p align="center">
