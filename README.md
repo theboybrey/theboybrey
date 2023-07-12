@@ -12,7 +12,7 @@
 </p>
 
 ![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
-<h3 align="left">⚙ My Tech Stack 👌</h3>
+<h3 align="left">⚙ My Tech Stack </h3>
 
 ![JavaScript](https://img.shields.io/badge/-JS-05122A?style=flat&logo=JavaScript)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
@@ -37,12 +37,11 @@ Code Capsules - © Christopher Lawrence CL </>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=theboybrey&theme=dracula&utcOffset=8&hide_border=true)
 
 ```
-AIS - © 2023
+AIS Inc - © 2023 
 ```
 
 <!-- éxplore Showcase -->
 
 
  
-© 2023 AIS, Inc.
 
