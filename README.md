@@ -33,14 +33,14 @@ Code Capsules - © Christopher Lawrence CL </>
 ![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=theboybrey&theme=dark&hide_border=true&card_width=800)
 
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theboybrey&theme=dark)  -->
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=theboybrey&theme=dark)  
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=theboybrey&theme=dark)  -->
 
 
 
 
-[![Lex Benjamin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=theboybrey&show_icons=true&theme=dark&hide_border=true)](https://github.com/theboybrey)
+[![Lex Benjamin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=theboybrey&card_width=800&show_icons=true&theme=dark&hide_border=true)](https://github.com/theboybrey)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theboybrey&card_width=800&size_weight=0.5&count_weight=0.5&langs_count=6&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theboybrey&card_width=800&size_weight=0.5&count_weight=0.5&langs_count=6&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
