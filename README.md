@@ -15,6 +15,7 @@
 <h3 align="left">⚙ My Tech Stack </h3>
 
 ![JavaScript](https://img.shields.io/badge/-JS-05122A?style=flat&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-JS-05122A?style=flat&logo=TypeScript)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![Shell](https://img.shields.io/badge/Shell-05122A?style=flat&logo=gnu-bash&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=white)
