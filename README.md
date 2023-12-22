@@ -28,7 +28,7 @@
 
 
 ```
-Code Capsules - © QuantumForge 2023 </>
+All Rights Reserved © QuantumForge 2023 </>
 ```
 
 ![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=theboybrey&theme=dark&hide_border=true&card_width=800)
