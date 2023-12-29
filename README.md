@@ -31,6 +31,10 @@
 All Rights Reserved © Bibabrey 2023 </>
 ```
 
+```
+NOVATRON © 2024 ForthComing
+```
+
 ![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=theboybrey&theme=dark&hide_border=true&card_width=800)
 
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theboybrey&theme=dark)  -->
