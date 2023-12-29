@@ -2,7 +2,7 @@
 709bjs@duck.com
 ```
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=theboybrey&label=Profile%20views&color=e91e63&style=flat" alt="theboybreyy" /> </p>
-<h2 align="left">Github Personality Trophy</h2>
+<h2 align="left">Github Luminary Trophy</h2>
 <img width=900 src="https://github-profile-trophy.vercel.app/?username=theboybrey&column=8&theme=gruvbox&no-frame=false"/>
 
 <p align="center">
@@ -28,7 +28,7 @@
 
 
 ```
-All Rights Reserved © QuantumForge 2023 </>
+All Rights Reserved © Bibabrey 2023 </>
 ```
 
 ![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=theboybrey&theme=dark&hide_border=true&card_width=800)
