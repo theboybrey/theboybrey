@@ -26,10 +26,10 @@
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
 
 
-
+<!--
 ```
 All Rights Reserved © Bibabrey 2023 </>
-```
+``` --->
 
 ```
 NOVATRON © 2024 ForthComing
