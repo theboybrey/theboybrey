@@ -1,5 +1,5 @@
 ```
-709bjs@duck.com
+709bjs@gmail.com
 ```
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=theboybrey&label=Profile%20views&color=e91e63&style=flat" alt="theboybreyy" /> </p>
 <h2 align="left">Github Luminary Trophy</h2>
