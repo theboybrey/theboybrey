@@ -22,7 +22,6 @@
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cpp)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)  
-![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
 
 
 <!--
