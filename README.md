@@ -6,8 +6,8 @@
 <img width=900 src="https://github-profile-trophy.vercel.app/?username=theboybrey&column=8&theme=gruvbox&no-frame=false"/>
 
 <p align="center">
-<a href="http://bit.ly/abessilfielinkedin"><img src="https://img.shields.io/badge/-abessilfie-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="http://bit.ly/bibabreytwitter"><img src="https://img.shields.io/badge/-@bibabrey-%231DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
+<a href="[http://bit.ly/abessilfielinkedin](https://www.linkedin.com/in/abessilfie/)"><img src="https://img.shields.io/badge/-abessilfie-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="[http://bit.ly/bibabreytwitter](https://x.com/bibabrey/)"><img src="https://img.shields.io/badge/-@bibabrey-%231DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
 <a href="mailto:709bjs@gmail.com"><img src="https://img.shields.io/badge/-709bjs@duck.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
