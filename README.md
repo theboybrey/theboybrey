@@ -7,8 +7,8 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/abessilfie"><img src="https://img.shields.io/badge/-abessilfie-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://x.com/bibabrey"><img src="https://img.shields.io/badge/-@bibabrey-%231DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
-<a href="mailto:709bjs@gmail.com"><img src="https://img.shields.io/badge/-709bjs@duck.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<!-- <a href="https://x.com/bibabrey"><img src="https://img.shields.io/badge/-@bibabrey-%231DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
+<a href="mailto:709bjs@gmail.com"><img src="https://img.shields.io/badge/-709bjs@duck.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a> -->
 </p>
 
 ![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
