@@ -1,0 +1,46 @@
+name: Daily Profile Update
+
+# Controls when the action will run
+on:
+  # Schedule to run every day at midnight UTC (00:00 UTC)
+  schedule:
+    - cron: "0 0 * * *"
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  update_profile:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      # Sets up the Python environment
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      # Runs the Python script to update the README.md
+      - name: Run Update Script
+        run: python .github/scripts/jarvis.ai.py
+
+      # Commits the changes and pushes them back to the repository
+      # Commits the changes and pushes them back to the repository
+      - name: Commit and Push Changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "Automated: Daily update via GitHub Action"
+          # Corrected inputs for author/committer information
+          author_name: "github-actions[bot]"
+          author_email: "41898282+github-actions[bot]@users.noreply.github.com"
+          # Committer usually defaults to the author if not specified.
+          # We'll explicitly set the committer name and email for completeness.
+          committer_name: "github-actions[bot]"
+          committer_email: "41898282+github-actions[bot]@users.noreply.github.com"
+          add: "README.md"
