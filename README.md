@@ -50,10 +50,6 @@ NOVATRON FORT © 2024
 
 
 
-```
-AIS Inc - © 2023 
-```
-
 <!-- éxplore Showcase -->
 
 
