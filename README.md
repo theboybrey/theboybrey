@@ -17,9 +17,9 @@
 ![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
 <h3 align="left">⚙ My Tech Stack </h3>
 
-![JavaScript](https://img.shields.io/badge/-JS-05122A?style=flat&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TS-05122A?style=flat&logo=TypeScript)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![TypeScript](https://img.shields.io/badge/-TS-05122A?style=flat&logo=TypeScript)
+![JavaScript](https://img.shields.io/badge/-JS-05122A?style=flat&logo=JavaScript)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)
 ![Shell](https://img.shields.io/badge/Shell-05122A?style=flat&logo=gnu-bash&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=white)
