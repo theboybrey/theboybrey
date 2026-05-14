@@ -1,9 +1,6 @@
 <!-- LAST_AUTOMATION_DATE:2026-03-26 -->
 
 
-```
-709bjs@gmail.com
-```
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=theboybrey&label=Profile%20views&color=e91e63&style=flat" alt="theboybrey" /> </p>
 <h2 align="left">Github Luminary Trophy</h2>
 <img width=900 src="https://github-profile-trophy.vercel.app/?username=theboybrey&column=8&theme=gruvbox&no-frame=false"/>
